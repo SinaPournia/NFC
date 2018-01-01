@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NFC</string>
+    <string name="title_activity_add_service_to_client">AddServiceToClient</string>
+    <string name="title_activity_addservice_for_parking">ADDServiceForParking</string>
+</resources>
